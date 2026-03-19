@@ -38,21 +38,21 @@ Started about a year ago. Now I have multiple apps on the App Store and run a ho
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="260">
       <img src="https://img.icons8.com/3d-fluency/94/baby-app.png" width="52" height="52" alt="Pregnancy App" />
       <br><br>
-      <strong>Pregnancy & Parenting App</strong>
+      <strong>Pregnancy & Parenting</strong>
       <br>
       <sub>App series for expecting families</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="260">
       <img src="https://img.icons8.com/3d-fluency/94/note.png" width="52" height="52" alt="Notes App" />
       <br><br>
       <strong>Markdown + Mermaid Notes</strong>
       <br>
       <sub>Note-taking app for iOS with diagrams</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="260">
       <img src="https://img.icons8.com/3d-fluency/94/robot-2.png" width="52" height="52" alt="AI Pipeline" />
       <br><br>
       <strong>AI Trends Pipeline</strong>
