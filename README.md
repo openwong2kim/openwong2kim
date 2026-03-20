@@ -1,4 +1,4 @@
-<div align="center">
+—<div align="center">
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:E8956A&height=200&section=header&text=&fontSize=1" />
