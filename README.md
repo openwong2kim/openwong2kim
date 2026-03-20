@@ -8,12 +8,16 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Hey%2C+I'm+wong2kim;Indie+iOS+Dev+%26+AI+Builder;Shipping+apps+with+AI+tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Hey%2C+I'm+wong2kim;Manufacturing+Engineer+%E2%86%92+AI+Builder;Shipping+iOS+apps+%26+enterprise+AI+systems" alt="Typing SVG" />
 
 <br><br>
 
 <a href="mailto:wong2kim@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-wong2kim-D97757?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://apps.apple.com/developer/id/YOUR_ID">
+  <img src="https://img.shields.io/badge/App_Store-Developer-D97757?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=openwong2kim&color=D97757&style=for-the-badge&label=VISITORS" alt="Profile Views" />
@@ -24,41 +28,44 @@
 
 ## `About Me`
 
+```text
+10 years in manufacturing engineering.
+Then my wife got pregnant — and I couldn't find the apps she needed.
+
+So I built them.
+
+No CS degree. No bootcamp. Just AI tools, a clear problem, and the will to ship.
+Now I build iOS apps, enterprise AI systems, and local AI infrastructure
+with one belief: technology should make life genuinely better for people.
+```
+
 <div align="center">
 <table>
   <tr>
     <td align="center" width="300">
-      <img src="https://img.icons8.com/ios/96/D97757/user-male-circle.png" width="52" height="52" alt="Person" />
+      <img src="https://img.icons8.com/ios/96/D97757/engineering.png" width="48" height="48" alt="Engineering" />
       <br><br>
-      <strong>Non-CS Background</strong>
+      <strong>10-Year Engineering Career</strong>
       <br>
-      <sub>No degree. No bootcamp.<br>Just curiosity and AI tools.</sub>
+      <sub>Automotive wiring harness manufacturing<br>→ Now leading enterprise AI adoption</sub>
     </td>
     <td align="center" width="300">
-      <img src="https://img.icons8.com/ios/96/D97757/idea.png" width="52" height="52" alt="Philosophy" />
-      <br><br>
-      <strong>My Philosophy</strong>
-      <br>
-      <sub>Build things that make<br>the world a better place.</sub>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.icons8.com/ios/96/D97757/server.png" width="52" height="52" alt="AI Builder" />
+      <img src="https://img.icons8.com/ios/96/D97757/artificial-intelligence.png" width="48" height="48" alt="AI" />
       <br><br>
       <strong>AI-First Builder</strong>
       <br>
-      <sub>Homelab with DGX Spark + Mac Mini<br>for local AI workloads.</sub>
+      <sub>Homelab with DGX Spark (128GB) + Mac Mini<br>Local LLM · RAG · Multi-Agent Systems</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="https://img.icons8.com/ios/96/D97757/iphone.png" width="48" height="48" alt="iOS" />
+      <br><br>
+      <strong>Indie iOS Developer</strong>
+      <br>
+      <sub>Multiple apps on the App Store<br>Built entirely with AI-assisted development</sub>
     </td>
   </tr>
 </table>
 </div>
-
-```text
-My wife got pregnant, and I couldn't find the apps she needed — so I built them.
-No CS degree, no bootcamp. Just AI tools and a reason to ship.
-I build with one belief: technology should make life genuinely better for people.
-```
-
-Started about a year ago. Now I have multiple apps on the App Store and run a homelab **(DGX Spark + Mac Mini)** for local AI workloads and self-hosted infra.
 
 <br>
 
@@ -68,48 +75,48 @@ Started about a year ago. Now I have multiple apps on the App Store and run a ho
 <table>
   <tr>
     <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/factory.png" width="52" height="52" alt="Manufacturing" />
+      <img src="https://img.icons8.com/ios/96/D97757/pregnant.png" width="48" height="48" alt="Pregnancy" />
       <br><br>
-      <strong>Manufacturing App</strong>
+      <strong>Pregnancy & Parenting Suite</strong>
       <br>
-      <sub>Streamline factory workflows<br>with mobile-first tools</sub>
+      <sub>Full lifecycle app series<br>for expecting and new families</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/hearts.png" width="52" height="52" alt="Wedding" />
+      <img src="https://img.icons8.com/ios/96/D97757/robot-2.png" width="48" height="48" alt="Enterprise AI" />
       <br><br>
-      <strong>Wedding Service</strong>
+      <strong>Enterprise AI Platform</strong>
       <br>
-      <sub>Plan your perfect wedding<br>from venue to vow</sub>
+      <sub>RAG chatbot · PPT auto-generation<br>AI adoption across 200+ users</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/baby.png" width="52" height="52" alt="Pregnancy" />
+      <img src="https://img.icons8.com/ios/96/D97757/note.png" width="48" height="48" alt="Notes" />
       <br><br>
-      <strong>Pregnancy &amp; Parenting</strong>
+      <strong>Note App</strong>
       <br>
-      <sub>App series for expecting<br>and new families</sub>
+      <sub>Markdown + Mermaid notes for iOS<br>iCloud sync · On-device AI</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/note.png" width="52" height="52" alt="Notes" />
+      <img src="https://img.icons8.com/ios/96/D97757/todo-list.png" width="48" height="48" alt="Productivity" />
       <br><br>
-      <strong>Note App</strong>
+      <strong>Productivity App</strong>
       <br>
-      <sub>Markdown + Mermaid diagrams<br>for iOS power users</sub>
+      <sub>ADHD-friendly task planner<br>Eisenhower Matrix × Pomodoro</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/artificial-intelligence.png" width="52" height="52" alt="AI Trends" />
+      <img src="https://img.icons8.com/ios/96/D97757/terminal.png" width="48" height="48" alt="Terminal" />
       <br><br>
-      <strong>AI Trends Pipeline</strong>
+      <strong>AI Coding Terminal</strong>
       <br>
-      <sub>Multi-agent AI curation<br>and trend discovery</sub>
+      <sub>Windows-native AI coding terminal<br>Multi-agent organization control</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/add-property.png" width="52" height="52" alt="More" />
+      <img src="https://img.icons8.com/ios/96/D97757/factory.png" width="48" height="48" alt="Manufacturing" />
       <br><br>
-      <strong>More Coming Soon</strong>
+      <strong>Manufacturing Tools</strong>
       <br>
-      <sub>Always shipping something<br>new with AI tools</sub>
+      <sub>DAQ monitoring · Vision inspection<br>Mobile-first factory workflows</sub>
     </td>
   </tr>
 </table>
@@ -122,33 +129,30 @@ Started about a year ago. Now I have multiple apps on the App Store and run a ho
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="44" height="44" />
-      <br><sub><b>Swift</b></sub>
+    <th align="center">Mobile</th>
+    <th align="center">Web</th>
+    <th align="center">AI / ML</th>
+    <th align="center">Infra</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="36" height="36" /><br><sub>Swift</sub><br>
+      <img src="https://cdn.simpleicons.org/xcode/D97757" alt="Xcode" width="36" height="36" /><br><sub>SwiftUI</sub>
     </td>
-    <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="44" height="44" />
-      <br><sub><b>React</b></sub>
+    <td align="center" valign="top">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="36" height="36" /><br><sub>React</sub><br>
+      <img src="https://cdn.simpleicons.org/nextdotjs/D97757" alt="Next.js" width="36" height="36" /><br><sub>Next.js</sub><br>
+      <img src="https://cdn.simpleicons.org/tailwindcss/D97757" alt="Tailwind" width="36" height="36" /><br><sub>Tailwind</sub>
     </td>
-    <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="44" height="44" />
-      <br><sub><b>Python</b></sub>
+    <td align="center" valign="top">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="36" height="36" /><br><sub>Python</sub><br>
+      <img src="https://cdn.simpleicons.org/langchain/D97757" alt="LangChain" width="36" height="36" /><br><sub>LangGraph</sub><br>
+      <img src="https://cdn.simpleicons.org/openai/D97757" alt="LLM" width="36" height="36" /><br><sub>LLM APIs</sub>
     </td>
-    <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="44" height="44" />
-      <br><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.simpleicons.org/nextdotjs/D97757" alt="Next.js" width="44" height="44" />
-      <br><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.simpleicons.org/tailwindcss/D97757" alt="Tailwind" width="44" height="44" />
-      <br><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.simpleicons.org/supabase/D97757" alt="Supabase" width="44" height="44" />
-      <br><sub><b>Supabase</b></sub>
+    <td align="center" valign="top">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="36" height="36" /><br><sub>Docker</sub><br>
+      <img src="https://cdn.simpleicons.org/supabase/D97757" alt="Supabase" width="36" height="36" /><br><sub>Supabase</sub><br>
+      <img src="https://cdn.simpleicons.org/nvidia/D97757" alt="NVIDIA" width="36" height="36" /><br><sub>DGX Spark</sub>
     </td>
   </tr>
 </table>
@@ -162,8 +166,8 @@ Started about a year ago. Now I have multiple apps on the App Store and run a ho
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A2E?style=for-the-badge&logo=cursor&logoColor=D97757)
+![Xcode](https://img.shields.io/badge/Xcode-1A1A2E?style=for-the-badge&logo=xcode&logoColor=D97757)
 ![Manus](https://img.shields.io/badge/Manus-1A1A2E?style=for-the-badge&logoColor=D97757)
-![Antigravity](https://img.shields.io/badge/Antigravity-1A1A2E?style=for-the-badge&logoColor=D97757)
 
 </div>
 
