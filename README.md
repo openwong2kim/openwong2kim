@@ -75,7 +75,7 @@ Started about a year ago. Now I have multiple apps on the App Store and run a ho
       <sub>Streamline factory workflows<br>with mobile-first tools</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/rings.png" width="52" height="52" alt="Wedding" />
+      <img src="https://img.icons8.com/ios/96/D97757/hearts.png" width="52" height="52" alt="Wedding" />
       <br><br>
       <strong>Wedding Service</strong>
       <br>
