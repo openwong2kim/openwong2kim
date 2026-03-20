@@ -2,8 +2,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:E8956A&height=200&section=header&text=&fontSize=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C45A3C,100:D97757&height=200&section=header&text=&fontSize=1" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:E8956A&height=200&section=header&text=&fontSize=1" alt="Header" />
+  <source media="(prefers-color-scheme: lighth)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C45A3C,100:D97757&height=200&section=header&text=&fontSize=1" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:E8956A&height=h200&section=header&text=&fontSize=1" alt="Header" />
 </picture>
 
 <br>
@@ -105,7 +105,7 @@ with one belief: technology should make life genuinely better for people.
       <sub>ADHD-friendly task planner<br>Eisenhower Matrix × Pomodoro</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/terminal.png" width="48" height="48" alt="Terminal" />
+      <img src="https://img.icons8.com/ios/96/D97757/console.png" width="48" height="48" alt="Terminal" />
       <br><br>
       <strong>AI Coding Terminal</strong>
       <br>
@@ -147,7 +147,7 @@ with one belief: technology should make life genuinely better for people.
     <td align="center" valign="top">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="36" height="36" /><br><sub>Python</sub><br>
       <img src="https://cdn.simpleicons.org/langchain/D97757" alt="LangChain" width="36" height="36" /><br><sub>LangGraph</sub><br>
-      <img src="https://cdn.simpleicons.org/openai/D97757" alt="LLM" width="36" height="36" /><br><sub>LLM APIs</sub>
+      <img src="https://img.icons8.com/ios/96/D97757/brain.png" alt="LLM" width="36" height="36" /><br><sub>LLM APIs</sub>
     </td>
     <td align="center" valign="top">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="36" height="36" /><br><sub>Docker</sub><br>
@@ -219,6 +219,7 @@ with one belief: technology should make life genuinely better for people.
 
 <br>
 
+<!--
 ## `Trophies`
 
 <div align="center">
@@ -230,6 +231,7 @@ with one belief: technology should make life genuinely better for people.
 </picture>
 
 </div>
+-->
 
 <br>
 
