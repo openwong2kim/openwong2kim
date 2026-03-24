@@ -1,5 +1,4 @@
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:E8956A&height=200&section=header&text=&fontSize=1" />
   <source media="(prefers-color-scheme: lighth)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C45A3C,100:D97757&height=200&section=header&text=&fontSize=1" />
@@ -8,7 +7,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Hey%2C+I'm+wong2kim;Manufacturing+Engineer+%E2%86%92+AI+Builder;Shipping+iOS+apps+%26+enterprise+AI+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Hey%2C+I'm+wong2kim;Engineer+%E2%86%92+AI+Builder;Shipping+iOS+apps+%26+enterprise+AI+systems" alt="Typing SVG" />
 
 <br><br>
 
@@ -29,8 +28,8 @@
 ## `About Me`
 
 ```text
-10 years in manufacturing engineering.
-Then my wife got pregnant — and I couldn't find the apps she needed.
+10 years in engineering.
+I couldn't find the apps I needed.
 
 So I built them.
 
@@ -47,14 +46,14 @@ with one belief: technology should make life genuinely better for people.
       <br><br>
       <strong>10-Year Engineering Career</strong>
       <br>
-      <sub>Automotive wiring harness manufacturing<br>→ Now leading enterprise AI adoption</sub>
+      <sub>Manufacturing background<br>→ Now leading enterprise AI adoption</sub>
     </td>
     <td align="center" width="300">
       <img src="https://img.icons8.com/ios/96/D97757/artificial-intelligence.png" width="48" height="48" alt="AI" />
       <br><br>
       <strong>AI-First Builder</strong>
       <br>
-      <sub>Homelab with DGX Spark (128GB) + Mac Mini<br>Local LLM · RAG · Multi-Agent Systems</sub>
+      <sub>Local AI Server + Mac Mini<br>Local LLM · RAG · Multi-Agent Systems</sub>
     </td>
     <td align="center" width="300">
       <img src="https://img.icons8.com/ios/96/D97757/iphone.png" width="48" height="48" alt="iOS" />
@@ -86,7 +85,7 @@ with one belief: technology should make life genuinely better for people.
       <br><br>
       <strong>Enterprise AI Platform</strong>
       <br>
-      <sub>RAG chatbot · PPT auto-generation<br>AI adoption across 200+ users</sub>
+      <sub>RAG chatbot · PPT auto-generation<br>AI adoption at scale</sub>
     </td>
     <td align="center" width="220">
       <img src="https://img.icons8.com/ios/96/D97757/note.png" width="48" height="48" alt="Notes" />
@@ -152,7 +151,7 @@ with one belief: technology should make life genuinely better for people.
     <td align="center" valign="top">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="36" height="36" /><br><sub>Docker</sub><br>
       <img src="https://cdn.simpleicons.org/supabase/D97757" alt="Supabase" width="36" height="36" /><br><sub>Supabase</sub><br>
-      <img src="https://cdn.simpleicons.org/nvidia/D97757" alt="NVIDIA" width="36" height="36" /><br><sub>DGX Spark</sub>
+      <img src="https://cdn.simpleicons.org/nvidia/D97757" alt="NVIDIA" width="36" height="36" /><br><sub>Local AI Server</sub>
     </td>
   </tr>
 </table>
@@ -216,22 +215,6 @@ with one belief: technology should make life genuinely better for people.
 </picture>
 
 </div>
-
-<br>
-
-<!--
-## `Trophies`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=openwong2kim&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=openwong2kim&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=openwong2kim&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-</picture>
-
-</div>
--->
 
 <br>
 
