@@ -1,4 +1,5 @@
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:E8956A&height=200&section=header&text=&fontSize=1" />
   <source media="(prefers-color-scheme: lighth)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C45A3C,100:D97757&height=200&section=header&text=&fontSize=1" />
@@ -7,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Hey%2C+I'm+wong2kim;Engineer+%E2%86%92+AI+Builder;Shipping+iOS+apps+%26+enterprise+AI+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Hey%2C+I'm+wong2kim;AI+%C3%97+Multi-Agent+Builder;AX+Consultant+%26+iOS+Developer" alt="Typing SVG" />
 
 <br><br>
 
@@ -28,42 +29,44 @@
 ## `About Me`
 
 ```text
-10 years in engineering.
-I couldn't find the apps I needed.
+Building AI systems that work in the real world.
 
-So I built them.
+I design and deploy multi-agent architectures, enterprise AI platforms,
+and AI experience (AX) strategies that bridge the gap between cutting-edge
+models and actual business value.
 
-No CS degree. No bootcamp. Just AI tools, a clear problem, and the will to ship.
-Now I build iOS apps, enterprise AI systems, and local AI infrastructure
-with one belief: technology should make life genuinely better for people.
+From local LLM infrastructure to production-grade RAG pipelines,
+I ship AI solutions end-to-end — and build iOS apps on the side.
 ```
 
 <div align="center">
+
 <table>
   <tr>
     <td align="center" width="300">
-      <img src="https://img.icons8.com/ios/96/D97757/engineering.png" width="48" height="48" alt="Engineering" />
-      <br><br>
-      <strong>10-Year Engineering Career</strong>
-      <br>
-      <sub>Manufacturing background<br>→ Now leading enterprise AI adoption</sub>
-    </td>
-    <td align="center" width="300">
       <img src="https://img.icons8.com/ios/96/D97757/artificial-intelligence.png" width="48" height="48" alt="AI" />
       <br><br>
-      <strong>AI-First Builder</strong>
+      <strong>Multi-Agent Systems</strong>
       <br>
-      <sub>Local AI Server + Mac Mini<br>Local LLM · RAG · Multi-Agent Systems</sub>
+      <sub>Designing autonomous agent workflows<br>LangGraph · CrewAI · Custom orchestration</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="https://img.icons8.com/ios/96/D97757/robot-2.png" width="48" height="48" alt="AX" />
+      <br><br>
+      <strong>AX Consultant</strong>
+      <br>
+      <sub>AI Experience strategy & implementation<br>Enterprise AI adoption at scale</sub>
     </td>
     <td align="center" width="300">
       <img src="https://img.icons8.com/ios/96/D97757/iphone.png" width="48" height="48" alt="iOS" />
       <br><br>
       <strong>Indie iOS Developer</strong>
       <br>
-      <sub>Multiple apps on the App Store<br>Built entirely with AI-assisted development</sub>
+      <sub>Multiple apps on the App Store<br>Swift · SwiftUI · On-device AI</sub>
     </td>
   </tr>
 </table>
+
 </div>
 
 <br>
@@ -71,6 +74,7 @@ with one belief: technology should make life genuinely better for people.
 ## `What I'm Building`
 
 <div align="center">
+
 <table>
   <tr>
     <td align="center" width="220">
@@ -119,6 +123,7 @@ with one belief: technology should make life genuinely better for people.
     </td>
   </tr>
 </table>
+
 </div>
 
 <br>
@@ -126,6 +131,7 @@ with one belief: technology should make life genuinely better for people.
 ## `Tech Stack`
 
 <div align="center">
+
 <table>
   <tr>
     <th align="center">Mobile</th>
@@ -155,6 +161,7 @@ with one belief: technology should make life genuinely better for people.
     </td>
   </tr>
 </table>
+
 </div>
 
 <br>
