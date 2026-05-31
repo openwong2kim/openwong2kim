@@ -1,250 +1,64 @@
-<div align="center">
+# Hi, I'm wong2kim 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:E8956A&height=200&section=header&text=&fontSize=1" />
-  <source media="(prefers-color-scheme: lighth)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C45A3C,100:D97757&height=200&section=header&text=&fontSize=1" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:E8956A&height=h200&section=header&text=&fontSize=1" alt="Header" />
-</picture>
+📍 **South Korea** | 🎯 **AX Strategy Consultant** | 🤖 **AI × Multi-Agent Builder** | 📱 **Indie iOS Developer**
 
-<br>
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Hey%2C+I'm+wong2kim;AI+%C3%97+Multi-Agent+Builder;AX+Consultant+%26+iOS+Developer" alt="Typing SVG" />
+> Building AI systems that work in the real world. Shipping production AI, not demos.
 
-<br><br>
+## Current Projects
 
-<a href="mailto:wong2kim@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-wong2kim-D97757?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://apps.apple.com/developer/id/YOUR_ID">
-  <img src="https://img.shields.io/badge/App_Store-Developer-D97757?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=openwong2kim&color=D97757&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+- 🖥️ **[wmux](https://github.com/openwong2kim/wmux)** — Windows-native terminal multiplexer for AI coding agents. Split panes, MCP integration, browser automation, multi-agent org control. Native ConPTY, no WSL.
+- 🧠 **Enterprise AI Platform** — RAG chatbot with automated PPT generation for internal knowledge workflows. LangGraph orchestration on local LLM infrastructure.
+- 🧰 **AI dev tooling** — a multi-machine Claude Code harness and agent-orchestration setups that run my daily workflow.
+- 🪄 **On-device persona chatbot** — fully local iOS chatbot built on Apple Foundation Models, SwiftUI & SwiftData. No server round-trips.
+- ✅ **Productivity & notes for iOS** — an ADHD focus planner (Eisenhower Matrix × Pomodoro) and a Markdown/Mermaid note app with iCloud sync.
+- 👶 **Family & life apps** — birth-date planning, parents' birthday reminders, and more, shipped on the App Store.
 
-</div>
+_Most iOS apps are closed-source and live on the App Store; wmux is my main public repo._
 
-<br>
+## What I'm Doing
 
-## `About Me`
+- **Shipping AI to production** — multi-agent systems (LangGraph, CrewAI, custom orchestration), RAG pipelines, and local LLM infrastructure that enterprises actually use.
+- **AX strategy (AI Transformation)** — on an AX strategy team, driving org-wide productivity by moving teams from AI pilots to production.
+- **Windows-native AI dev tooling** — wmux brings real terminal multiplexing and multi-agent org control to AI coding agents.
+- **Indie iOS** — releasing Swift / SwiftUI apps on the App Store.
 
-```text
-Building AI systems that work in the real world.
+## Tech Stack
 
-I design and deploy multi-agent architectures, enterprise AI platforms,
-and AI experience (AX) strategies that bridge the gap between cutting-edge
-models and actual business value.
+| Layer | Tools |
+|---|---|
+| **Mobile** | Swift, SwiftUI, Xcode |
+| **Web** | React, Next.js, Tailwind CSS |
+| **AI / ML** | Python, LangGraph, LangChain, CrewAI, LLM APIs |
+| **Infra** | Docker, Supabase, local NVIDIA AI servers |
+| **Tools** | Claude Code, Cursor, Xcode, Manus |
 
-From local LLM infrastructure to production-grade RAG pipelines,
-I ship AI solutions end-to-end — and build iOS apps on the side.
-```
+## Connect
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/openwong2kim)
+[![Email](https://img.shields.io/badge/-open.wong2kim@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:open.wong2kim@gmail.com)
 
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://img.icons8.com/ios/96/D97757/artificial-intelligence.png" width="48" height="48" alt="AI" />
-      <br><br>
-      <strong>Multi-Agent Systems</strong>
-      <br>
-      <sub>Designing autonomous agent workflows<br>LangGraph · CrewAI · Custom orchestration</sub>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.icons8.com/ios/96/D97757/robot-2.png" width="48" height="48" alt="AX" />
-      <br><br>
-      <strong>AX Consultant</strong>
-      <br>
-      <sub>AI Experience strategy & implementation<br>Enterprise AI adoption at scale</sub>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.icons8.com/ios/96/D97757/iphone.png" width="48" height="48" alt="iOS" />
-      <br><br>
-      <strong>Indie iOS Developer</strong>
-      <br>
-      <sub>Multiple apps on the App Store<br>Swift · SwiftUI · On-device AI</sub>
-    </td>
-  </tr>
-</table>
+---
 
-</div>
+### Philosophy
 
-<br>
+> Shipping production AI, not demos. — I build AI systems that hold up under real enterprise load, not just in a slide deck.
 
-## `What I'm Building`
+<details>
+<summary>Random Facts</summary>
 
-<div align="center">
+- Windows-first AI developer — building native dev tooling without WSL.
+- Run my own local NVIDIA AI servers for LLM infrastructure.
+- Live in Claude Code and multi-agent orchestration workflows day to day.
 
-<table>
-  <tr>
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/pregnant.png" width="48" height="48" alt="Pregnancy" />
-      <br><br>
-      <strong>Pregnancy & Parenting Suite</strong>
-      <br>
-      <sub>Full lifecycle app series<br>for expecting and new families</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/robot-2.png" width="48" height="48" alt="Enterprise AI" />
-      <br><br>
-      <strong>Enterprise AI Platform</strong>
-      <br>
-      <sub>RAG chatbot · PPT auto-generation<br>AI adoption at scale</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/note.png" width="48" height="48" alt="Notes" />
-      <br><br>
-      <strong>Note App</strong>
-      <br>
-      <sub>Markdown + Mermaid notes for iOS<br>iCloud sync · On-device AI</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/todo-list.png" width="48" height="48" alt="Productivity" />
-      <br><br>
-      <strong>Productivity App</strong>
-      <br>
-      <sub>ADHD-friendly task planner<br>Eisenhower Matrix × Pomodoro</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/console.png" width="48" height="48" alt="Terminal" />
-      <br><br>
-      <strong>AI Coding Terminal</strong>
-      <br>
-      <sub>Windows-native AI coding terminal<br>Multi-agent organization control</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://img.icons8.com/ios/96/D97757/factory.png" width="48" height="48" alt="Manufacturing" />
-      <br><br>
-      <strong>Manufacturing Tools</strong>
-      <br>
-      <sub>DAQ monitoring · Vision inspection<br>Mobile-first factory workflows</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-## `Tech Stack`
-
-<div align="center">
-
-<table>
-  <tr>
-    <th align="center">Mobile</th>
-    <th align="center">Web</th>
-    <th align="center">AI / ML</th>
-    <th align="center">Infra</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="36" height="36" /><br><sub>Swift</sub><br>
-      <img src="https://cdn.simpleicons.org/xcode/D97757" alt="Xcode" width="36" height="36" /><br><sub>SwiftUI</sub>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="36" height="36" /><br><sub>React</sub><br>
-      <img src="https://cdn.simpleicons.org/nextdotjs/D97757" alt="Next.js" width="36" height="36" /><br><sub>Next.js</sub><br>
-      <img src="https://cdn.simpleicons.org/tailwindcss/D97757" alt="Tailwind" width="36" height="36" /><br><sub>Tailwind</sub>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="36" height="36" /><br><sub>Python</sub><br>
-      <img src="https://cdn.simpleicons.org/langchain/D97757" alt="LangChain" width="36" height="36" /><br><sub>LangGraph</sub><br>
-      <img src="https://img.icons8.com/ios/96/D97757/brain.png" alt="LLM" width="36" height="36" /><br><sub>LLM APIs</sub>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="36" height="36" /><br><sub>Docker</sub><br>
-      <img src="https://cdn.simpleicons.org/supabase/D97757" alt="Supabase" width="36" height="36" /><br><sub>Supabase</sub><br>
-      <img src="https://cdn.simpleicons.org/nvidia/D97757" alt="NVIDIA" width="36" height="36" /><br><sub>Local AI Server</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-## `Weapons of Choice`
-
-<div align="center">
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1A1A2E?style=for-the-badge&logo=cursor&logoColor=D97757)
-![Xcode](https://img.shields.io/badge/Xcode-1A1A2E?style=for-the-badge&logo=xcode&logoColor=D97757)
-![Manus](https://img.shields.io/badge/Manus-1A1A2E?style=for-the-badge&logoColor=D97757)
-
-</div>
-
-<br>
-
-## `GitHub Stats`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=openwong2kim&show_icons=true&hide_border=true&bg_color=00000000&title_color=D97757&icon_color=E8956A&text_color=C9D1D9&ring_color=D97757&border_radius=16&card_width=450&rank_icon=percentile" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=openwong2kim&show_icons=true&hide_border=true&bg_color=00000000&title_color=C45A3C&icon_color=D97757&text_color=2D2D2D&ring_color=C45A3C&border_radius=16&card_width=450&rank_icon=percentile" />
-  <img src="https://github-readme-stats.vercel.app/api?username=openwong2kim&show_icons=true&hide_border=true&bg_color=00000000&title_color=D97757&icon_color=E8956A&text_color=C9D1D9&ring_color=D97757&border_radius=16&card_width=450&rank_icon=percentile" alt="GitHub Stats" height="195" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=openwong2kim&layout=compact&hide_border=true&bg_color=00000000&title_color=D97757&text_color=C9D1D9&border_radius=16&card_width=350&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=openwong2kim&layout=compact&hide_border=true&bg_color=00000000&title_color=C45A3C&text_color=2D2D2D&border_radius=16&card_width=350&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=openwong2kim&layout=compact&hide_border=true&bg_color=00000000&title_color=D97757&text_color=C9D1D9&border_radius=16&card_width=350&langs_count=6" alt="Top Languages" height="195" />
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=openwong2kim&hide_border=true&background=00000000&ring=D97757&fire=E8956A&currStreakLabel=D97757&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&border_radius=16&card_width=520&card_height=180" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=openwong2kim&hide_border=true&background=00000000&ring=C45A3C&fire=D97757&currStreakLabel=C45A3C&sideLabels=2D2D2D&currStreakNum=2D2D2D&sideNums=2D2D2D&dates=888888&border_radius=16&card_width=520&card_height=180" />
-  <img src="https://streak-stats.demolab.com?user=openwong2kim&hide_border=true&background=00000000&ring=D97757&fire=E8956A&currStreakLabel=D97757&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&border_radius=16&card_width=520&card_height=180" alt="GitHub Streak" />
-</picture>
-
-</div>
-
-<br>
-
-## `Activity`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=openwong2kim&hide_border=true&bg_color=00000000&color=D97757&line=D97757&point=E8956A&area_color=D97757&area=true&custom_title=&radius=16" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=openwong2kim&hide_border=true&bg_color=00000000&color=C45A3C&line=C45A3C&point=D97757&area_color=C45A3C&area=true&custom_title=&radius=16" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=openwong2kim&hide_border=true&bg_color=00000000&color=D97757&line=D97757&point=E8956A&area_color=D97757&area=true&custom_title=&radius=16" alt="Activity Graph" width="100%" />
-</picture>
-
-</div>
-
-<br>
-
-## `Contribution Snake`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openwong2kim/openwong2kim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openwong2kim/openwong2kim/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/openwong2kim/openwong2kim/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:E8956A&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C45A3C,100:D97757&height=120&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:E8956A&height=120&section=footer" alt="Footer" />
-</picture>
-
-</div>
+</details>
