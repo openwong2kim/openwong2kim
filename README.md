@@ -18,7 +18,7 @@
 ## Current Projects
 
 - 🖥️ **[wmux](https://github.com/openwong2kim/wmux)** — Windows-native terminal multiplexer for AI coding agents. Split panes, MCP integration, browser automation, multi-agent org control. Native ConPTY, no WSL.
-- 🧠 **Enterprise AI Platform** — RAG chatbot with automated PPT generation for internal knowledge workflows. LangGraph orchestration on local LLM infrastructure.
+- 🧠 **Enterprise AI Platform** — an internal developer platform (PaaS) with self-hosted LLM serving and an API gateway for routing models and services. Runs a RAG chatbot with automated PPT generation, orchestrated with LangGraph.
 - 🧰 **AI dev tooling** — a multi-machine Claude Code harness and agent-orchestration setups that run my daily workflow.
 - 🪄 **On-device persona chatbot** — fully local iOS chatbot built on Apple Foundation Models, SwiftUI & SwiftData. No server round-trips.
 - ✅ **Productivity & notes for iOS** — an ADHD focus planner (Eisenhower Matrix × Pomodoro) and a Markdown/Mermaid note app with iCloud sync.
@@ -40,7 +40,7 @@ _Most iOS apps are closed-source and live on the App Store; wmux is my main publ
 | **Mobile** | Swift, SwiftUI, Xcode |
 | **Web** | React, Next.js, Tailwind CSS |
 | **AI / ML** | Python, LangGraph, LangChain, CrewAI, LLM APIs |
-| **Infra** | Docker, Supabase, local NVIDIA AI servers |
+| **Infra** | Docker, Supabase, local NVIDIA AI servers, self-hosted LLM serving, API gateway |
 | **Tools** | Claude Code, Cursor, Xcode, Manus |
 
 ## Connect
