@@ -16,9 +16,7 @@ strategy at my company. I build the tools I need with AI coding agents
 | Project | What it is |
 |---|---|
 | [wmux](https://github.com/openwong2kim/wmux) | A terminal for running several AI coding agents side by side. I use it every day. |
-| [wlog](https://github.com/openwong2kim/wlog) | A local dashboard of Claude Code session tokens and cost. |
-| [wsnap](https://github.com/openwong2kim/wsnap) | A screen capture tool for Windows, with Korean/English OCR and GIF recording. |
-| [claude-token-check](https://github.com/openwong2kim/claude-token-check) | A macOS menu bar app that shows Claude Code usage. |
+| [wongtty](https://github.com/openwong2kim/wongtty) | A Rust terminal engine for wasm, Node and native apps, with an xterm.js-compatible API. |
 
 ## Tools
 
